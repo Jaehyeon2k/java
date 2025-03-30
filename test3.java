@@ -1,3 +1,5 @@
+package task;
+
 import java.util.Scanner;
 
 public class test3 {
@@ -10,15 +12,15 @@ public class test3 {
 
 		Scanner scn = new Scanner(System.in);
 
-		int height = 1;
+		int n = 1;
 		while (true) {
-			height = scn.nextInt();
-			if (height % 2 == 0 || height < 3) {
+			n = scn.nextInt();
+			if (n % 2 == 0 || n < 3) {
 				System.out.println("다시 입력하세요.");
 			} else {
-				for (int i = 0; i < height; i++) {
-					for (int j = 0; j < height; j++) {
-						if (i == j || j + i + 1 == height) {
+				for (int i = 0; i < n; i++) {
+					for (int j = 0; j < n; j++) {
+						if (i == j || j + i == n - 1) {
 							System.out.print("*");
 						} else
 							System.out.print(" ");
