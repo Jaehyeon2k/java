@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.SQLOutput"/>
+    <fullyQualifiedTypeName name="java.security.cert.Certificate"/>
+    <fullyQualifiedTypeName name="javax.imageio.metadata.IIOMetadataFormatImpl"/>
+    <fullyQualifiedTypeName name="java.nio.channels.Pipe.SourceChannel"/>
+    <fullyQualifiedTypeName name="chap03.Operator01"/>
+    <fullyQualifiedTypeName name="javax.sql.rowset.serial.SQLOutputImpl"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.classfile.instruction.SwitchCase"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.FontUIResource"/>
+    <fullyQualifiedTypeName name="chap07.Student"/>
+    <fullyQualifiedTypeName name="java.lang.InternalError"/>
+    <fullyQualifiedTypeName name="chap08.inheritance01"/>
+    <fullyQualifiedTypeName name="chap08.Parent"/>
+    <fullyQualifiedTypeName name="chap08.Subkitten2"/>
+    <fullyQualifiedTypeName name="chap08.SuperCat2"/>
+    <fullyQualifiedTypeName name="ch14.ExFrame03"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="chap08.Animal"/>
+    <fullyQualifiedTypeName name="Welcome.User"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.standard.JobOriginatingUserName"/>
+    <fullyQualifiedTypeName name="java.lang.VerifyError"/>
+    <fullyQualifiedTypeName name="chap09.TwoWheeler"/>
+    <fullyQualifiedTypeName name="chap09.FourWheeler"/>
+    <fullyQualifiedTypeName name="chap09.Chicken"/>
+    <fullyQualifiedTypeName name="chap09.Bird"/>
+    <fullyQualifiedTypeName name="com.javamaster.mypackage.Cat"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.market.bookitem.Book"/>
+    <fullyQualifiedTypeName name="Welcome.CartItem"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="com.market.exception.CartException"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+</qualifiedTypeNameHistroy>

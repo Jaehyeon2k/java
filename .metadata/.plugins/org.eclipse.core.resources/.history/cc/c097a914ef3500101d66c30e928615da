@@ -1,0 +1,19 @@
+package chap11;
+
+class InvalidException extends Exception{
+	public InvalidException(String s) {
+		super(s);
+	}
+}
+public class Exception05 {
+	void check(int weight) throws InvalidException{
+		if (weight < 100) {
+			throw new InvalidException("InvalidException 클래스 호출입니다.");
+		}
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
