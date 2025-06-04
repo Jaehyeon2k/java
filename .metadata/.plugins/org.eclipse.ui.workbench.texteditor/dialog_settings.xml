@@ -4,21 +4,21 @@
 	<section name="java.lang.Class">
 		<item key="replaceBarOpen" value="false"/>
 		<list key="findhistory">
-			<item value="7"/>
-			<item value="영수증 표시하기"/>
-			<item value="장바구니의 항목"/>
-			<item value="장바구니 비우기"/>
-			<item value="menu"/>
-			<item value="Bill"/>
-			<item value="menuCartClear()"/>
-			<item value="removeCart"/>
-			<item value="remove"/>
-			<item value="menuCartAddItem"/>
-			<item value="장바구니 상품 목록"/>
-			<item value="장바구니 상품 목록 :"/>
-			<item value="isCartinbook"/>
-			<item value="장바구니에 항목 추가하기"/>
-			<item value="장바구니 항목에 추가하기"/>
+			<item value="totalfiletobooklist"/>
+			<item value="set"/>
+			<item value="reader"/>
+			<item value="book[] booklist"/>
+			<item value="!"/>
+			<item value="isnb"/>
+			<item value="mBooklist"/>
+			<item value="4"/>
+			<item value="menuAdminlogin"/>
+			<item value="case 4"/>
+			<item value="whil"/>
+			<item value="book[]"/>
+			<item value="booklist"/>
+			<item value="throw"/>
+			<item value="try"/>
 		</list>
 	</section>
 </section>
