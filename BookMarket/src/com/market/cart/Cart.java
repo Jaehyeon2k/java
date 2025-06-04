@@ -76,7 +76,7 @@ public class Cart implements CartInterface {
 //                flag = true;
 //            }
 		for (int i = 0; i < mCartItem.size(); i++) {
-			if (bookId == mCartItem.get(i).getBookID()) {
+			if (bookId.equals(mCartItem.get(i).getBookID())) {
 				mCartItem.get(i).setQuantity(mCartItem.get(i).getQuantity() + 1);
 				flag = true;
 			}

@@ -202,11 +202,11 @@ public class Welcome {
 
 					// 카트에 넣기
 					if (!isCartInBook(booklist.get(numId).getBookId())) {
+						mCart.insertBook(booklist.get(numId));
 						// mCartItem[mCartCount++] = new CartItem(book[numId]);
 						// mCartItem[mCartCount++] = new CartItemBook(booklist[numId]);
 						// mCart.mCartCount = mCartCount++;
 						// mCartCount++;
-						mCart.insertBook(booklist.get(numId));
 					}
 				}
 				quit = true;
